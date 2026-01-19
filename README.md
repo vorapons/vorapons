@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vorapons
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in Developer
+- 🌱 I’m currently learning MERN Stack, Go, Python Swift
 - 💞️ I’m looking to collaborate on ...xxx
 - 📫 How to reach me ... vorapon_s@hotmail.com
 
